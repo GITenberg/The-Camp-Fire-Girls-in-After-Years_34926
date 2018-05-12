@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-in-After-Years_34926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34926-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2011-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Colorado Springs (Colo.) -- Juvenile fiction'
+- !lcsh 'Interpersonal attraction -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+title: The Camp Fire Girls in After Years
+url: http://www.gutenberg.org/ebooks/34926
